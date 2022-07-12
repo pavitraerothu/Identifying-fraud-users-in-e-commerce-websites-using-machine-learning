@@ -1,0 +1,2 @@
+,user_id,signup_time,purchase_time,purchase_value,device_id,source,browser,sex,age,ip_address,difference,signup_hour,purchase_hour,purchase_dayofweek,usage_device_count,usage_ip_count,country
+0,22058,2015-02-24 22:55:00,2015-04-18 02:47:00,34,0,0,0,0,39,732758368.8,75112.0,22,2,0,1,1,0
